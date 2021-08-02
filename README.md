@@ -1,4 +1,4 @@
-### Hi there, I'm Sumit Singh Rawat - aka [Sumit24-prog][website] 👋
+### Hi there, I'm Sumit Singh Rawat - [Sumit24-prog][website] 👋
 
 [![Website](https://github.com/Sumit24-prog)](Sumit)
 
