@@ -1,6 +1,4 @@
-### Hi there, I'm Sumit Singh Rawat - [Sumit24-prog][website] 👋
-
-[![Website]()](Sumit)
+### Hi there, I'm Sumit Singh Rawat - [Sumit24-prog] 👋
 
 ## I'm a Developer, and learner!!
 
