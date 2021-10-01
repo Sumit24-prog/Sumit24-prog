@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node.js,React.js,...**
 
-- 👯 I’m looking to collaborate on [A Multitheared HTTP server Using Java](https://github.com/Sumit24-prog/miniproject)
+- 👯 I’m looking to collaborate on [Open source community.](https://github.com/Sumit24-prog/miniproject)
 
-- 🤝 I’m looking for help with [A Multitheared HTTP server Using Java](https://github.com/Sumit24-prog/miniproject)
+- 🤝 I’m looking for help with [my projects](https://github.com/Sumit24-prog/miniproject)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumit24-prog/](https://github.com/Sumit24-prog/)
 
