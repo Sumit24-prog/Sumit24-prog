@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sumit Singh Rawat</h1>
 <h3 align="center">A passionate fullstack web-developer and learner, from India</h3>
 
-- 🔭 I’m currently working on [A Multitheared HTTP server Using Java](https://github.com/Sumit24-prog/miniproject)
+- 🔭 I’m currently working on Penetration Testing Tool
 
 - 🌱 I’m currently learning **Node.js,React.js,...**
 
-- 👯 I’m looking to collaborate on [Open source community.](https://github.com/Sumit24-prog/miniproject)
+- 👯 I’m looking to collaborate on Open source community.
 
-- 🤝 I’m looking for help with [my projects](https://github.com/Sumit24-prog/miniproject)
+- 🤝 I’m looking for help on Penetration testing.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumit24-prog/](https://github.com/Sumit24-prog/)
 
