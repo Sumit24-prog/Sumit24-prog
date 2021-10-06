@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/folderview?id=1CHd4APfJtg5KOk*tU7Q_TJ5WWflb8tW*](https://drive.google.com/folderview?id=1CHd4APfJtg5KOk_tU7Q_TJ5WWflb8tW_)
 
-- ⚡ Fun fact **I think I am A Good Learner and I love to do Programming**
+- ⚡ Fun fact **I am A Good Learner and I love to do Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
